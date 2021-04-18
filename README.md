@@ -1,4 +1,5 @@
 # Simple automation
 automate your daily life
 #### 01. Spotify
-get lyrics from geniuslyrics for current playing song on your Spotify
+Simple API practice.<br/>
+Get lyrics from geniuslyrics for the current song playing on your Spotify with some beautiful printing
